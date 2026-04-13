@@ -149,9 +149,12 @@ agentic-task-logger/
 
 ---
 
-## 👨‍💻 Author
-
-Developed as part of the *Innovation and Complexity Management* course
-Deggendorf Institute of Technology
+Make sure Docker is installed and running.
 
 ---
+
+Make sure Docker is installed and running.
+
+## 📸 Demo
+
+![App Screenshot](screenshot.png) <img width="953" height="468" alt="image" src="https://github.com/user-attachments/assets/d340704c-c3a5-410d-bd43-9171aeb0cf02" />
